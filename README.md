@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Tamanna Akter Swarna
-A passonate SQA Engineer.
+A passionate SQA Engineer.
 
 
 # 💫 About Me:
