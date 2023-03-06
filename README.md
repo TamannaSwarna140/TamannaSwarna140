@@ -4,7 +4,7 @@ A passionate SQA Engineer.
 
 # 💫 About Me:
 - 🔭 Currently, I'm pursuing a BSc in CSE.<br>
-- 🌱 I'm currently learning Data Science, SQA and Cyber Security.<br>
+- 🌱 I'm currently learning Data Science and SQA.<br>
 - 👯 I'm looking to collaborate on Security in AI.<br>
 - 🤔 I'm looking for help with QA and AI projects.<br>
 - ⚡ Fun fact: "nothing to say."
