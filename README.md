@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Tamanna Akter Swarna
 A passonate SQA Engineer.
 
-<hr>
+
 # 💫 About Me:
 - 🔭 Currently, I'm pursuing a BSc in CSE.<br>
 - 🌱 I'm currently learning Data Science, SQA and Cyber Security.<br>
