@@ -1,10 +1,10 @@
 ### Hi there 👋 I am Tamanna Akter Swarna
-A passionate SQA Engineer.
+A passionate Data Science Enthusiast.
 
 
 # 💫 About Me:
 - 🔭 CSE Graduate.<br>
-- 🌱 I'm currently learning Data Science and SQA.<br>
+- 🌱 I'm currently learning Data Science.<br>
 - 👯 I'm looking to collaborate on Security in AI.<br>
 - 🤔 I'm looking for help with QA and AI projects.<br>
 - ⚡ Fun fact: "nothing to say."
